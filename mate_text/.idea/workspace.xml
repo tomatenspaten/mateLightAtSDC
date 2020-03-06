@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67a875b7-13ae-4498-9f22-56c263d7016e" name="Default Changelist" comment="" />
+    <list default="true" id="67a875b7-13ae-4498-9f22-56c263d7016e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textbanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/textbanner.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ykno87zM9CSszSgJLOfVQCb6IC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,9 +35,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -77,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583495631298</updated>
       <workItem from="1583495634597" duration="9025000" />
+      <workItem from="1583506488327" duration="2024000" />
     </task>
     <servers />
   </component>
@@ -84,22 +96,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2129" height="288" key="GridCell.Tab.0.bottom" timestamp="1583505407225">
+    <state width="2129" height="288" key="GridCell.Tab.0.bottom" timestamp="1583507744489">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state width="2129" height="288" key="GridCell.Tab.0.bottom/0.23.2560.1365@0.23.2560.1365" timestamp="1583505407225" />
-    <state width="2129" height="288" key="GridCell.Tab.0.center" timestamp="1583505407224">
+    <state width="2129" height="288" key="GridCell.Tab.0.bottom/0.23.2560.1365@0.23.2560.1365" timestamp="1583507744489" />
+    <state width="2129" height="288" key="GridCell.Tab.0.center" timestamp="1583507744488">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state width="2129" height="288" key="GridCell.Tab.0.center/0.23.2560.1365@0.23.2560.1365" timestamp="1583505407224" />
-    <state width="2129" height="288" key="GridCell.Tab.0.left" timestamp="1583505407223">
+    <state width="2129" height="288" key="GridCell.Tab.0.center/0.23.2560.1365@0.23.2560.1365" timestamp="1583507744488" />
+    <state width="2129" height="288" key="GridCell.Tab.0.left" timestamp="1583507744488">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state width="2129" height="288" key="GridCell.Tab.0.left/0.23.2560.1365@0.23.2560.1365" timestamp="1583505407223" />
-    <state width="2129" height="288" key="GridCell.Tab.0.right" timestamp="1583505407224">
+    <state width="2129" height="288" key="GridCell.Tab.0.left/0.23.2560.1365@0.23.2560.1365" timestamp="1583507744488" />
+    <state width="2129" height="288" key="GridCell.Tab.0.right" timestamp="1583507744489">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state width="2129" height="288" key="GridCell.Tab.0.right/0.23.2560.1365@0.23.2560.1365" timestamp="1583505407224" />
+    <state width="2129" height="288" key="GridCell.Tab.0.right/0.23.2560.1365@0.23.2560.1365" timestamp="1583507744489" />
     <state width="2129" height="339" key="GridCell.Tab.1.bottom" timestamp="1583502230851">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
@@ -116,13 +128,17 @@
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
     <state width="2129" height="339" key="GridCell.Tab.1.right/0.23.2560.1365@0.23.2560.1365" timestamp="1583502230851" />
+    <state x="838" y="359" width="670" height="676" key="search.everywhere.popup" timestamp="1583508373564">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="838" y="359" width="670" height="676" key="search.everywhere.popup/0.23.2560.1365@0.23.2560.1365" timestamp="1583508373564" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/textbanner.py</url>
-          <line>66</line>
+          <line>51</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -130,5 +146,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/textbanner$textbanner.coverage" NAME="textbanner Coverage Results" MODIFIED="1583505080323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mate_text$textbanner.coverage" NAME="textbanner Coverage Results" MODIFIED="1583506491831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
